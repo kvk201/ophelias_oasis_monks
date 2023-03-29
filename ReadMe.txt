@@ -1,5 +1,7 @@
 Project Ophelia's Oasis - Read ME
 
+View site here: https://messi618.github.io/ophelias_oasis_monks/
+
 1.  Technologies used : HTML, CSS, JavaScript, Jquery, BootStrap, NodeJS.
 
 2. 	The database will not work by running it directly. 
